@@ -28,4 +28,4 @@ Adjunto Link [INDICADORES](https://yerba-matenetlify.netlify.app/)
  
 ---
 
-Adjunto Link [CUADERNO](https://notebooklm.link.google/ltedzM3QyA14)
+Adjunto Link [CUADERNO](https://notebooklm.link.google/1L4JivH9ZY1W)
