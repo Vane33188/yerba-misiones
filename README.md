@@ -1,11 +1,11 @@
 # yerba-misiones
 # Informática tp1
-1 Materia y tema 
-2 Experto en Comercio Internacional, Despachante de Aduana y Analista Financiero especializado en el régimen Draw Back (5 años)
-3 Perplexity 
-4 Claude
-5 Netlify
-6 Github 
+* Materia y tema 
+* Experto en Comercio Internacional, Despachante de Aduana y Analista Financiero especializado en el régimen Draw Back (5 años)
+* Perplexity 
+* Claude
+* Netlify
+* Github 
 * Drive Personal : 1 Word, 2 Excel
 
 
