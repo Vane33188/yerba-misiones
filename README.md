@@ -11,4 +11,4 @@
 
 Adjunto Link [INDICADORES](https://yerba-matenetlify.netlify.app/)
 
-Adjunto Link [[INDICADORES]]
+Adjunto Link [CUADERNO](https://notebooklm.link.google/nsUt5MYE808N)
