@@ -2,7 +2,7 @@
 # Informática tp1
 * Materia y tema 
 * Experto en Comercio Internacional, Despachante de Aduana y Analista Financiero especializado en el régimen Draw Back (5 años)
-* Perplexity 
+* Perplexity
 * Claude
 * Netlify
 * Github 
