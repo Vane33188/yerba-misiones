@@ -10,5 +10,21 @@
 
 
 Adjunto Link [INDICADORES](https://yerba-matenetlify.netlify.app/)
+ 
+
+## CUADERNO de Gemini sobre la Materia:
+**Descripción**
+* Utilizo los siguientes componentes de STUDIO:
+  * Mapa Mental: yyy
+  * Presentaciones: yyy
+  * Infografía: yyy
+  * video explicativo: yyy
+  * PodCast: yyy
+  * Cuestionario: yyy
+  * Tarjeta Didáctica: yyy
+  * Tabla De Datos: yyy
+  * Informes: yyy
+ 
+---
 
 Adjunto Link [CUADERNO](https://notebooklm.link.google/nsUt5MYE808N)
