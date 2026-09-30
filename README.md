@@ -9,4 +9,4 @@
 
 
 
-Adjunto Link [[INDICADORES](yerbamate-misiones.netlify.app)
+Adjunto Link [INDICADORES](yerbamate-misiones.netlify.app)
