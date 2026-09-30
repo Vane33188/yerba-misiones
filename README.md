@@ -6,6 +6,7 @@
 4 Claude
 5 Netlify
 6 Github 
+* Drive Personal : 1 Word, 2 Excel
 
 
 
